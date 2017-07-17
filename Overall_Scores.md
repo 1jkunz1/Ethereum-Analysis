@@ -84,7 +84,7 @@ Proof of work <br>
 Informal, Laissez Faire, Mutable, Semi-Centralized <br>
 Casper, PoW/POS hybrid will be attempted
 
-<b> Harware Wallets </b>| 5 <br>
+<b> Hardware Wallets </b>| 5 <br>
 
 Trezor: Yes <br>
 Nano-Ledger: Yes <br>
