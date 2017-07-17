@@ -51,7 +51,7 @@ Dev Activity: Highly Active https://github.com/dashpay/
 
 <b> Network Speed </b>| 1 (Normal Conditions) ~ <br>
 
-Heavily dependent on software client / internet connection / operating system. In most conditions, I have found speed of doing anything useful to be painfully slow.
+Heavily dependent on geth version / client / internet connection / operating system. In most conditions, I have found speed of doing anything useful to be painfully slow.
 
 <b> Software/QA </b> | 2 <br>
 
