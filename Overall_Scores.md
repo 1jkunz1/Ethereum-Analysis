@@ -82,7 +82,9 @@ http://www.cnbc.com/2017/07/16/ethereum-briefly-crashes-20-percent-to-7-week-low
 
 Proof of work <br>
 Informal, Laissez Faire, Mutable, Semi-Centralized <br>
-Casper, PoW/POS hybrid will be attempted
+Casper, PoW/POS hybrid will be attempted <br>
+Miner reward code is ambiguos - typed, but not static. This will likely change with Casper.
+
 
 <b> Hardware Wallets </b>| 5 <br>
 
@@ -92,7 +94,7 @@ Keepkey: Yes
 
 
 <b> Conclusion </b>
- I love Vitalik and the whole Ethereum team - unfortunately I cannot see anyway to justify it's value. I don't believe it would be possible to scale a single production-level application without disrupting the entire network at this time. The system is very complex
+ I love Vitalik and the whole Ethereum team - unfortunately I cannot see anyway to justify it's value. I don't believe it would be possible to scale a single production-level application without disrupting the entire network at this time. The system is very complex. EVM has proven to be quite easily reproduceable to this point(several forks). 
  
- <b> I believe growth of network has occurred at an unhealthy rate. </b>
+ <b> I believe growth of network has occurred at an unhealthy rate. Ethereum could regain value in the future, I suspect there will be more forks, and a large depreciation in value before that occurs. </b>
 
