@@ -81,7 +81,7 @@ http://www.cnbc.com/2017/07/16/ethereum-briefly-crashes-20-percent-to-7-week-low
 <b>Governance</b> | 1.5 <br>
 
 Proof of work <br>
-Informal, Laissez Faire, Mutable, Semi-Centralized <b>
+Informal, Laissez Faire, Mutable, Semi-Centralized <br>
 Casper, PoW/POS hybrid will be attempted
 
 <b> Harware Wallets </b>| 5 <br>
@@ -93,5 +93,6 @@ Keepkey: Yes
 
 <b> Conclusion </b>
  I love Vitalik and the whole Ethereum team - unfortunately from a value perspective, I cannot see anyway to justify it's value. I don't believe it would be possible to scale a single production-level application without disrupting the entire network at this time. The system is very complex
- - I believe growth of network has occurred at an unhealthy rate. 
+ 
+ <b> I believe growth of network has occurred at an unhealthy rate. </b>
 
