@@ -92,7 +92,7 @@ Keepkey: Yes
 
 
 <b> Conclusion </b>
- I love Vitalik and the whole Ethereum team - unfortunately from a value perspective, I cannot see anyway to justify it's value. I don't believe it would be possible to scale a single production-level application without disrupting the entire network at this time. The system is very complex
+ I love Vitalik and the whole Ethereum team - unfortunately I cannot see anyway to justify it's value. I don't believe it would be possible to scale a single production-level application without disrupting the entire network at this time. The system is very complex
  
  <b> I believe growth of network has occurred at an unhealthy rate. </b>
 
