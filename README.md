@@ -1,2 +1,2 @@
 # Ethereum-Analysis
-$ETH-Fundamentals
+Ethereum Fundamental Analysis
